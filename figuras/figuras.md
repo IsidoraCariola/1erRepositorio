@@ -1,2 +1,3 @@
 # Figuras
 
+graficos y tablas 
